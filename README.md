@@ -1,2 +1,4 @@
 # hello-world
 My first repository!
+
+Luke was born and raised in the suburbs of Western Pennsylvania. He attended Slippery Rock University for his BS in Biology (minors: Chemistry and Leadership) and it was there that he took an interest in plant science. After taking a botany course during his sophomore year, Luke found himself interested in all the complexities of plant life. It was soon after that he began to research plant physiology and developed an interest in plant physiology research. After graduating Luke accepted a graduate position for Plant Biology and Molecular Plant Science at Michigan State University and is happy to be a member of the Plant Research Laboratory. In his free time, Luke enjoys heading back to Pennsylvania to visit his family, watching Saturday Night Live, and finds himself making any excuse to explore the outdoors.
